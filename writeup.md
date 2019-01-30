@@ -23,8 +23,8 @@ The goals / steps of this project are the following:
 [image2]: ./undistorted_images/straight_lines1.jpg "Road Transformed"
 [image3]: ./thresholded_binary_images/straight_lines1.jpg "Binary Example"
 [image4]: ./transformed_images/straight_lines1.jpg "Warp Example"
-[image5]: ./ploy_images/straight_lines1.jpg "Fit Visual"
-[image6]: ./overal/example_output.jpg "Output"
+[image5]: ./poly_images/straight_lines1.jpg "Fit Visual"
+[image6]: ./overlay/straight_lines1.jpg "Output"
 [video1]: ./project_video_lane.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
