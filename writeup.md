@@ -24,8 +24,9 @@ The goals / steps of this project are the following:
 [image3]: ./thresholded_binary_images/straight_lines1.jpg "Binary Example"
 [image4]: ./transformed_images/straight_lines1.jpg "Warp Example"
 [image5]: ./poly_images/straight_lines1.jpg "Fit Visual"
-[image6]: ./overlay/straight_lines1.jpg "Output"
+[image6]: ./overlay_images/straight_lines1.jpg "Output"
 [video1]: ./project_video_lane.mp4 "Video"
+
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
